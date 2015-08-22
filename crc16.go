@@ -10,7 +10,7 @@ const (
 	IBM = 0xA001
 
 	// Used by X.25, V.41, HDLC FCS, XMODEM, Bluetooth, PACTOR, SD, ...
-	CCITT = 0x8408
+	CCITT = 0xFFFF
 
 	// Used by SCSI
 	SCSI = 0xEDD1
